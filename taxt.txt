@@ -1,0 +1,26 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-Week9:
+-Flask:
+Web servers,Flask,hello,templates,forms,get and post,layouts,forshims,error checking,loops,storing data,databases,sessions,login,store,shows...
+-Week10:
+-Ethics
+-Leet Code Challenges:
+-TwoSum.py:Add Two Numbers And Find Their Indexes in a list...
+-Rotate.py:Rotate the matrix of Numbers...
+-RomanToInteger.py:Convert Roman letters into Integer...
+-Different types of Sorting Methods:Bubble sort,Mege sort,Selection sort...
+-Decorators
+-Lambda Functions...
+-Inheritance.....
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
