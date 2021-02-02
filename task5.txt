@@ -1,0 +1,23 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-Week10:
+	Ethics
+-leetcode Challenges:
+	Remove Duplicates from sorted array
+	Zigzag conversion
+	linear search
+-Python web frame works:Django and Flask
+-html
+-css
+
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
