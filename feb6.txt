@@ -1,0 +1,19 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+-zigzag conversion: using index of a list.we can combine zigzag of letters into original.
+-we take oops(object oriented programing)concept,we will discuss about that...
+
+
+
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
