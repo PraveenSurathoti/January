@@ -1,0 +1,19 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+-count_primes.py-when we give any number...it counts the prime numbers less than non negative numbers
+-modules concept in python...
+
+
+
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
