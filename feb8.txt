@@ -1,0 +1,24 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+-count primes.py
+-unique paths.py
+-some of advanced python concept:
+---oops concept:
+-----encapsulation:binding of a data and code into a single unit
+-----class:class provides the definition of object
+-----object:it is real time entity
+-----data abstraction:representing essential features without including background details is said to be...
+-----inheritance:creating a new class from already existing class
+-----polymorphism:poly means many morphic means forms
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
