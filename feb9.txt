@@ -1,0 +1,19 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+-count primes.py
+-unique paths.py
+-virtualenv:
+---create two python versions...
+-How to install minicube...
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
