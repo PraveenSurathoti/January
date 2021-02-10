@@ -1,0 +1,18 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+-unique_paths.py:when we give 3 rows and 3 column grid...when one robot is on top-left corner of a m*n grid...how many posiible ways to reach to bottom-right of a grid...
+-unique_path2.py:when we give 3 rows and 3 column grid...when one robot is on top-left corner of a m*n grid...how many posiible ways to reach to bottom-right of a grid...And when some obstacle is there...how to reach bottom-right of a grid...
+-length_last_word.py:when we give string...it defines the length of lastword of a string...
+
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
