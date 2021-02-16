@@ -1,0 +1,16 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+-squareroot.py
+-longest_common_prefix.py
+
+
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
