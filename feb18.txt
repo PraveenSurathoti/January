@@ -1,0 +1,14 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+--sum_of_digits.py
+-Functions concept in python
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
