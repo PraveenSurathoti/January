@@ -1,0 +1,14 @@
+Hello Sir,Good Evening
+Today i had done below tasks
+
+10:30
+
+-leetcode:
+--date.py:How to find day name.when we given date,month and year...
+-some basic python programs with the oops concept in python
+      
+6:30:
+
+
+Thanks&Regards:
+Praveen
